@@ -13,4 +13,4 @@ let male=true;//boolean
 
 console.log(typeof null);//will return object but why??
 console.log(typeof undefined);//will return undefined.
-
+//important documentation sites:1)mdn 2)tc39.es(ECMAscript official documentation of javascript,they set the standards for the js interpreters for all the browsers)
