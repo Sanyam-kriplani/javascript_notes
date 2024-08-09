@@ -30,6 +30,37 @@
 // console.log(typeof sumString);
 // console.log(sumString);
 
-//
+//******operations******
+
+// let num=3;
+// let negnum=-num;
+// console.log(negnum);
+
+// console.log(2+2);
+// console.log(3-2);
+// console.log(3*2);
+// console.log(3**2);//gives 3 to the power 2
+// console.log(3/2);//gives decimal value
+// console.log(3%2);
+
+
+// console.log(1+1);
+// console.log(1+"1");
+// console.log("1"+2+2);//string ke baad 
+// console.log(1+2+"2");//saare string me convert
+
+// let gameScore=100;
+//  gameScore++;//Same answer for 
+// ++gameScore;//both of the cases then 
+// console.log(gameScore);//what is the diff.
+
+//go to prefix and postfix in js mdn
+
+
+
+
+
+
+
 
 
