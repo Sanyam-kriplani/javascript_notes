@@ -13,3 +13,6 @@
 // console.log(undefined>=0);//false
 // console.log(undefined==0);//false
  
+
+//=== or strict check ,it not only checks the values of the operands but also check for their datatypes.
+console.log("2"===2);//false
