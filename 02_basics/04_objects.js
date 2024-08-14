@@ -55,4 +55,29 @@ console.log(Object.entries(fbUser));//returns an array of the array in key value
 
 console.log(fbUser.hasOwnProperty("name"));
 
+// //destructuring the object
+// //Destructuring an object means taking out specific properties from an object and assigning them to variables in a shorter, more convenient way
+// const person={
+// name:"john",
+// age:18,
+// city:"newyork"
+// }
+
+// const {name,age,city}=person ;//Now, name, age, and city are variables that hold the corresponding values from the person object.and they can be accessed without the hassle of mentioning the obj name.
+
+// console.log(name);
+// console.log(age);
+// console.log(city);
+ 
+//JSON:javascript object notation
+
+// {
+//     "name":"sanyam",
+//     "course":"btech",
+//     "id":"1222158",
+// }
+//also in the form of array of objects
+//[{},{},{}]
+
+//json is the most commonly used format in APIs specially inn the modern web development
 
