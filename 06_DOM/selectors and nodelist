@@ -1,0 +1,21 @@
+// we use dom selectors to select any element in the html document
+//there are following mostly used selectors
+//getElementByClassName()
+//selects the element by the class name
+//getElementById()
+//it selects the element by the id 
+//getElementByTagName()
+//selects the item by the tag name like h1.
+//querySelector()
+//it selects the first element matching the given id,class or tag.
+
+//querySelectorAll
+//it is different from the previous fuction as it returns a Nodelist of the matching elements
+//Nodelists are the collection of the elements but they are not purely  arrays
+//Nodelists only support foreach loop
+
+//getElementByClassName() & getElementbytagname returns a html collection.
+//HTMLcollections are also the collection but they donot support any iteration either
+
+//so to use the function of arrays on Nodelists and HTMLcollections we convert them into the array by using Array.from() method.
+
